@@ -1,2 +1,2 @@
 # Origin-Bot
-Leak de tous les bots Origins que je leur ai faits.
+Leak de tous les bots Origin que je leur ai faits.
