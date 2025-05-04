@@ -1,0 +1,13 @@
+{
+  "token": "",
+  "guildId": "",
+  
+  "staffRole": {
+    "admin": "",
+    "headstaff": "",
+    "moderateur": ""
+  },
+
+  "category": "",
+  "salon": ""
+}
